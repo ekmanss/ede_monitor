@@ -1,7 +1,4 @@
-import React, {lazy, useEffect, useState} from 'react';
-import logo from './logo.svg';
 import './App.css';
-import {ethers} from 'ethers'
 
 import useIdo from "./hooks/useIdo";
 import {ede_bot_executor} from "./config/address"
